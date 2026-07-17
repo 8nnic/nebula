@@ -14,6 +14,9 @@ customization, simplicity, and a polished space-inspired experience.
 - Built-in widget ecosystem
 - Fast and lightweight
 
+## Notes
+- Kinda boring rn going to make control dashboard better soon
+
 ## Status
 
 🚧 Pre-Alpha

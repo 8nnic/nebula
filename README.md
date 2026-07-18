@@ -15,7 +15,7 @@ customization, simplicity, and a polished space-inspired experience.
 - Fast and lightweight
 
 ## Notes
-- Kinda boring rn going to make control dashboard better soon
+- Prints what u pressesd or however u say it
 
 ## Status
 

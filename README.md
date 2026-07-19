@@ -15,7 +15,7 @@ customization, simplicity, and a polished space-inspired experience.
 - Fast and lightweight
 
 ## Notes
-- Prints what u press
+- Connect Appearance card click signal
 
 ## Status
 

@@ -15,7 +15,7 @@ customization, simplicity, and a polished space-inspired experience.
 - Fast and lightweight
 
 ## Notes
-- Connect Appearance card click signal
+- Add page navigation with QStackedWidget
 
 ## Status
 

@@ -15,7 +15,7 @@ customization, simplicity, and a polished space-inspired experience.
 - Fast and lightweight
 
 ## Notes
-- Add page navigation with QStackedWidget
+- Add Mission Control settings pages
 
 ## Status
 
